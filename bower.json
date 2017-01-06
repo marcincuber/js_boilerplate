@@ -1,0 +1,8 @@
+{
+  "name": "jsboilerplate",
+  "dependencies": {},
+  "analytics": false,
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.5.2"
+  }
+}
